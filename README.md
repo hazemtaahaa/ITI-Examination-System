@@ -16,7 +16,7 @@ Digital examination systems have revolutionized academic assessments, replacing 
 ---
 
 ## **System Architecture Diagram** 🏗️  
-![System Architecture](./docs/system-architecture.png)  
+![System Architecture]()  
 
 ---
 
@@ -59,7 +59,7 @@ This system eliminates manual errors, saves time, and provides a seamless experi
 
 | Name | GitHub 
 |------|--------
-| **Hazem Taha** | [@your-github](https://github.com/hazemtaahaa) 
+| **Hazem Taha** | [@hazemtaahaa](https://github.com/hazemtaahaa) 
 | **Aalaa El-Sayed** | [@member1-github](https://github.com/member1-github) 
 | **Menna Hassan** | [@member2-github](https://github.com/member2-github) 
 | **Mahmoud Adel** | [@member3-github](https://github.com/member3-github) 
