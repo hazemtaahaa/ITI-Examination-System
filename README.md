@@ -71,7 +71,7 @@ This system eliminates manual errors, saves time, and provides a seamless experi
 | **Menna Hassan** | [@member2-github](https://github.com/member2-github)  
 | **Mahmoud Adel** | [@member3-github](https://github.com/member3-github)  
 | **Ahmed Samir** | [@member3-github](https://github.com/member3-github)  
-| **Abdullah Emad** | [@member3-github](https://github.com/member3-github)  
+| **Abdullah Emad** | [@AbdullahEmad07](https://github.com/AbdullahEmad07)  
 
 ---
 
