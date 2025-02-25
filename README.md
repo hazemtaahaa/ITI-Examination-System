@@ -16,12 +16,22 @@ Digital examination systems have revolutionized academic assessments, replacing 
 ---
 
 ## **System Architecture Diagram** 🏗️  
-![System Architecture]()  
+![System Architecture](./diagrams/system-architecture.png)  
 
 ---
 
 ## **Entity-Relationship Diagram (ERD)** 🔗  
-![ER Diagram](./docs/er-diagram.png)  
+![ER Diagram](./diagrams/er-diagram.png)  
+
+---
+
+## **Mapping Diagram** 🔄  
+![Mapping Diagram](./Diagrams/Mapping.jpg)  
+
+---
+
+## **Tables Diagram** 🗃️  
+![Tables Diagram](./diagrams/tables-diagram.png)  
 
 ---
 
@@ -57,16 +67,15 @@ This system eliminates manual errors, saves time, and provides a seamless experi
 
 ## **Meet the Team** 👨‍💻👩‍💻  
 
-| Name | GitHub 
-|------|--------
-| **Hazem Taha** | [@hazemtaahaa](https://github.com/hazemtaahaa) 
-| **Aalaa El-Sayed** | [@member1-github](https://github.com/member1-github) 
-| **Menna Hassan** | [@member2-github](https://github.com/member2-github) 
-| **Mahmoud Adel** | [@member3-github](https://github.com/member3-github) 
-| **Ahmed Samir** | [@member3-github](https://github.com/member3-github) 
-| **Abdullah Emad** | [@member3-github](https://github.com/member3-github) 
+| Name | GitHub  
+|------|--------  
+| **Hazem Taha** | [@hazemtaahaa](https://github.com/hazemtaahaa)  
+| **Aalaa El-Sayed** | [@member1-github](https://github.com/member1-github)  
+| **Menna Hassan** | [@member2-github](https://github.com/member2-github)  
+| **Mahmoud Adel** | [@member3-github](https://github.com/member3-github)  
+| **Ahmed Samir** | [@member3-github](https://github.com/member3-github)  
+| **Abdullah Emad** | [@member3-github](https://github.com/member3-github)  
 
 ---
-
 
 **🚀 Happy Coding!**  
