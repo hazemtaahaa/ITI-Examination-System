@@ -21,7 +21,7 @@ Digital examination systems have revolutionized academic assessments, replacing 
 ---
 
 ## **Entity-Relationship Diagram (ERD)** 🔗  
-![ER Diagram](./diagrams/er-diagram.png)  
+![ER Diagram](./Diagrams/ERD.png)  
 
 ---
 
@@ -30,8 +30,8 @@ Digital examination systems have revolutionized academic assessments, replacing 
 
 ---
 
-## **Tables Diagram** 🗃️  
-![Tables Diagram](./diagrams/tables-diagram.png)  
+## **Schema Diagram** 🗃️  
+![Tables Diagram](./Diagrams/Schema.png)  
 
 ---
 
