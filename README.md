@@ -15,10 +15,7 @@ Digital examination systems have revolutionized academic assessments, replacing 
 
 ---
 
-## **System Architecture Diagram** 🏗️  
-![System Architecture](./diagrams/system-architecture.png)  
 
----
 
 ## **Entity-Relationship Diagram (ERD)** 🔗  
 ![ER Diagram](./Diagrams/ERD.png)  
